@@ -6,7 +6,7 @@
 
 A comprehensive Elixir library for working with compressed NFTs (cNFTs) on Solana using the Metaplex Bubblegum protocol.
 
-DOCS => 
+DOCS => [CHECK HERE](https://hexdocs.pm/mpl_bubblegum_exs/api-reference.html)
 
 ## Overview
 
